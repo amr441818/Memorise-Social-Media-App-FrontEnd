@@ -1,6 +1,7 @@
 Memorise-Social-Media-App
 
 - this project for add any memory in your life
+- -ues crud oprations
 - you can sign up
 - you can Log in with normal email or google account
 - You can add a new memory
@@ -19,6 +20,11 @@ Tools
 - restfull api
 - material Ui
 - file structre
+- node js
+- express js
+- mongodb
+- mongoose
+- socket io
 
 Available Scripts
 
